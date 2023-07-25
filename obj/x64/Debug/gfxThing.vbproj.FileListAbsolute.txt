@@ -1,0 +1,14 @@
+C:\Users\ewant\source\repos\gfxThing\bin\x64\Debug\gfxThing.exe.config
+C:\Users\ewant\source\repos\gfxThing\bin\x64\Debug\gfxThing.exe
+C:\Users\ewant\source\repos\gfxThing\bin\x64\Debug\gfxThing.pdb
+C:\Users\ewant\source\repos\gfxThing\bin\x64\Debug\gfxThing.xml
+C:\Users\ewant\source\repos\gfxThing\bin\x64\Debug\SDL2-CS.dll
+C:\Users\ewant\source\repos\gfxThing\obj\x64\Debug\gfxThing.vbproj.AssemblyReference.cache
+C:\Users\ewant\source\repos\gfxThing\obj\x64\Debug\gfxThing.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ewant\source\repos\gfxThing\obj\x64\Debug\gfxThing.Resources.resources
+C:\Users\ewant\source\repos\gfxThing\obj\x64\Debug\gfxThing.vbproj.GenerateResource.cache
+C:\Users\ewant\source\repos\gfxThing\obj\x64\Debug\gfxThing.vbproj.CoreCompileInputs.cache
+C:\Users\ewant\source\repos\gfxThing\obj\x64\Debug\gfxThing.vbproj.CopyComplete
+C:\Users\ewant\source\repos\gfxThing\obj\x64\Debug\gfxThing.exe
+C:\Users\ewant\source\repos\gfxThing\obj\x64\Debug\gfxThing.xml
+C:\Users\ewant\source\repos\gfxThing\obj\x64\Debug\gfxThing.pdb
